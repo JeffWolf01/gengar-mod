@@ -1,0 +1,18 @@
+{
+  "ambient_howl": {
+    "subtitle": "subtitles.gengar.ambient_howl",
+    "sounds": [ { "name": "minecraft:entity.ghast.ambient", "type": "event" } ]
+  },
+  "step": {
+    "subtitle": "subtitles.gengar.step",
+    "sounds": [ { "name": "minecraft:block.wool.step", "type": "event", "volume": 0.6 } ]
+  },
+  "rest": {
+    "subtitle": "subtitles.gengar.rest",
+    "sounds": [ { "name": "minecraft:entity.cat.purr", "type": "event" } ]
+  },
+  "attack_shadowball": {
+    "subtitle": "subtitles.gengar.attack_shadowball",
+    "sounds": [ { "name": "minecraft:entity.evoker.cast_spell", "type": "event" } ]
+  }
+}

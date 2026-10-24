@@ -1,0 +1,20 @@
+{
+  "item.gengar.gengar_pokeball": "Pokébola de Gengar",
+  "item.gengar.purple_experience_bottle": "Frasco de Experiencia Púrpura",
+  "entity.gengar.gengar": "Gengar",
+  "entity.gengar.shadow_ball": "Bola Sombra",
+  "itemGroup.gengar": "Gengar Companion",
+  "message.gengar.summoned": "¡Gengar apareció!",
+  "message.gengar.recalled": "Gengar volvió a la Pokébola",
+  "message.gengar.fainted": "Gengar volvió a la Pokébola. Recargando 60 s...",
+  "message.gengar.max_level": "Gengar ya está al nivel máximo",
+  "message.gengar.mode.follow": "Gengar te sigue",
+  "message.gengar.mode.head": "Gengar descansa sobre tu cabeza",
+  "message.gengar.mode.guard": "Gengar vigila la cama/spawn",
+  "tooltip.gengar.level": "Nivel %s",
+  "tooltip.gengar.friendship": "Amistad %s",
+  "subtitles.gengar.ambient_howl": "Gengar aúlla",
+  "subtitles.gengar.step": "Gengar camina",
+  "subtitles.gengar.rest": "Gengar descansa",
+  "subtitles.gengar.attack_shadowball": "Gengar lanza Bola Sombra"
+}

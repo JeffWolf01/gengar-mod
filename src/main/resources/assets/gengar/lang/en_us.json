@@ -1,0 +1,20 @@
+{
+  "item.gengar.gengar_pokeball": "Gengar Poké Ball",
+  "item.gengar.purple_experience_bottle": "Purple Experience Bottle",
+  "entity.gengar.gengar": "Gengar",
+  "entity.gengar.shadow_ball": "Shadow Ball",
+  "itemGroup.gengar": "Gengar Companion",
+  "message.gengar.summoned": "Gengar appeared!",
+  "message.gengar.recalled": "Gengar returned to the Poké Ball",
+  "message.gengar.fainted": "Gengar returned to the Poké Ball. Recharging 60s...",
+  "message.gengar.max_level": "Gengar is already at max level",
+  "message.gengar.mode.follow": "Gengar follows you",
+  "message.gengar.mode.head": "Gengar rests on your head",
+  "message.gengar.mode.guard": "Gengar guards the bed/spawn",
+  "tooltip.gengar.level": "Level %s",
+  "tooltip.gengar.friendship": "Friendship %s",
+  "subtitles.gengar.ambient_howl": "Gengar howls",
+  "subtitles.gengar.step": "Gengar walks",
+  "subtitles.gengar.rest": "Gengar rests",
+  "subtitles.gengar.attack_shadowball": "Gengar throws Shadow Ball"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "minecraft:experience_bottle" },
+    { "item": "minecraft:purple_dye" }
+  ],
+  "result": { "item": "gengar:purple_experience_bottle", "count": 1 }
+}

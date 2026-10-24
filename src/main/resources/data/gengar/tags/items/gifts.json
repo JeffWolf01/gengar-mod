@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:cake", "minecraft:cookie", "minecraft:pumpkin_pie", "minecraft:diamond", "minecraft:emerald",
+    "minecraft:amethyst_shard", "minecraft:gold_ingot", "minecraft:lapis_lazuli", "minecraft:ender_pearl",
+    "minecraft:glow_ink_sac", "minecraft:ink_sac", "minecraft:spider_eye", "minecraft:fermented_spider_eye",
+    "minecraft:purple_dye", "minecraft:chorus_flower", "minecraft:echo_shard", "minecraft:rabbit_foot"
+  ]
+}
